@@ -23,13 +23,29 @@
 </h1>
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
-I am a Front **End Web Developer ** based in India, and I'm working to become a **Full Stack Web Developer** with **MERN . ** I am passionate about **Web Technologies, Coding, and Open-source.** I am a graduate of **B.Sc** in **Mathematics** and **Computer Science ** from Osmania University, India. I like to **Create and Contribute** to open source projects. In free times, I join my passonate friends in space discussing about web technologies, tools and genegral discussions.
+## :man_technologist: About Me :
 
-Here are some ideas to get you started:
+I am a **Front End Web Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
 
-### I am currently learning: 
+  - :telescope: I'm working to become a **Full Stack Web Developer** with **MERN.** 
+  
+  - :seedling: I am passionate about **Web Technologies, Coding, and Open-source.** 
+  
+  - :school: I am a graduate of **B.Sc** in **Mathematics** and **Computer Science** from Osmania University, India. 
+  
+  - :zap: I like to **Create and Contribute** to open source projects. 
+  
+  - :speaking_head: In free times, I join my passonate friends in twitter space discussing about web technologies, tools, software engineering and genegral discussions.
+  
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/)
+
+
+## I am currently learning: 
 
   - NodeJs
   - ExpressJs
@@ -47,4 +63,7 @@ Here are some ideas to get you started:
 
 ---
 
+
+
+## :hammer_and_wrench: Languages and tools </>
 
