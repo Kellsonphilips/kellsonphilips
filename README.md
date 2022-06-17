@@ -100,3 +100,4 @@ I am a **Front End Web Developer** <img src="https://media.giphy.com/media/WUlpl
 ## :writing_hand: Blog Posts :
 
   - ... :writing_hand:
+  - ... :writing_hand:
