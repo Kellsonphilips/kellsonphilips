@@ -32,7 +32,7 @@
 
 I am a **Front End Web Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
 
-  - :telescope: I'm working to become a **Full Stack Web Developer** with **MERN.** 
+  - :telescope: I'm working to become a **Full Stack Web Developer** with **MERN** as my Stack.
   
   - :seedling: I am passionate about **Web Technologies, Coding, and Open-source.** 
   
@@ -72,7 +72,7 @@ I am a **Front End Web Developer** <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" height="40" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BoostStrap" alt="BoostStrap" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" height="40" width="40" />&nbsp;
