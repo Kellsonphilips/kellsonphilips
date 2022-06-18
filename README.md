@@ -60,9 +60,9 @@ I am a **Front End Web Developer** <img src="https://media.giphy.com/media/WUlpl
 
 ## I am open to:
 
-  - Sponsorships
   - Work opportunities
   - Collaborations for projects
+  - Sponsorships
   - Developer advocacy opportunities
 
 ---
