@@ -91,9 +91,13 @@ I am a **Front End Web Developer** <img src="https://media.giphy.com/media/WUlpl
 ---
 ## :fire: My Stats :
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kellsonphilips&theme=bear&background=000000)](https://git.io/streak-stats)
 
 
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 ---
 
