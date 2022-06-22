@@ -44,7 +44,7 @@ I am a **Front End Web Developer** <img src="https://media.giphy.com/media/WUlpl
   
   - :zap: I like to **Create and Contribute** to open source projects. 
   
-  - :speaking_head: In free times, I join my passonate friends in twitter space discussing about web technologies, tools, software engineering and genegral discussions.
+  - :speaking_head: In free times, I join my passionate friends in twitter space discussing about web technologies, tools, software engineering and general discussions.
   
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/)
 
