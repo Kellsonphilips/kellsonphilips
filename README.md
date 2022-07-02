@@ -31,30 +31,31 @@
 ## :man_technologist: About Me :
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=This+is+Philip+Orji%20;Front+End+Developer;Tech+Enthusiast;Content%20Creator%20|+Blogger;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=This+is+Philip+Orji%20;Full+Stack+Developer;Tech+Enthusiast;Content%20Creator%20|+Blogger;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
 </p>
 
-I am a **Front End Web Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
+I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
 
-  - :telescope: I'm working to become a **Full Stack Web Developer** with **MERN** as my Stack.
+  - :telescope: My main tools for **Full Stack Web Developer** is **MERN** .
   
   - :seedling: I am passionate about **Web Technologies, Coding, and Open-source.** 
   
   - :school: I am a graduate of **B.Sc** in **Mathematics** and **Computer Science** from Osmania University, India. 
   
-  - :zap: I like to **Create and Contribute** to open source projects. 
+  - :zap: I like to **Create and Contribute** to open source projects and also help those that seek for help within my reach. 
   
   - :speaking_head: In free times, I join my passionate friends in twitter space discussing about web technologies, tools, software engineering and general discussions.
   
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/)
 
 
-## I am currently learning: 
+## My main Stack tools: 
 
-  - NodeJs
-  - ExpressJs
+  
   - MongoDB
+  - ExpressJs
   - ReactJs
+  - NodeJs
 
 
 
