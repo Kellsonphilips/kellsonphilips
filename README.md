@@ -31,7 +31,7 @@
 ## :man_technologist: About Me :
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Front+End+Developer;Python+Programmer%20;Content%20Creator%20|+Blogger&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=This+is+Philip+Orji%20;Front+End+Developer;Tech+Enthusiast;Content%20Creator%20|+Blogger;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
 </p>
 
 I am a **Front End Web Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
