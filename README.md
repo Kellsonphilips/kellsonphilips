@@ -13,9 +13,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kellsonphilips&style=flat-square&color=blue" alt=""/>
-</div>
 
 <h1 align="center">
   Hi, I am Philip 
@@ -34,7 +31,6 @@
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=This+is+Philip+Orji%20;Full+Stack+Developer;Tech+Enthusiast;Content%20Creator%20|+Blogger;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=kellsonphilips&label=PROFILE+VIEWS)
 
 I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
 
