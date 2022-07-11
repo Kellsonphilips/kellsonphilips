@@ -28,7 +28,7 @@
 ## :man_technologist: About Me :
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=This+is+Philip+Orji%20;Full+Stack+Developer;Tech+Enthusiast;Content%20Creator%20|+Blogger;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=This+is+Philip+Orji%20|+You're+right!;Full+Stack+Developer;Tech+Enthusiast|+Funtionality+Inquisitive;Content%20Creator%20|+Blogging+(paused);Developers+Startup+Advocate+(To-be)&center=true&width=500&height=50"></a>
 </p>
 
 
