@@ -28,7 +28,7 @@
 ## :man_technologist: About Me :
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=This+is+Philip+Orji%20|+You're+right!;Full%20Stack+Developer;Tech+Enthusiast|+Funtionality+Inquisitive;Content%20Creator%20|+Blogging+in%20progress;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=This+is+Philip+Orji%20|+You're+right!;Full%20Stack+Developer;MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Inquisitive;Content%20Creator%20|+Blogging+in%20progress;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="v_jaynarayan" /></a> </p>
@@ -92,17 +92,16 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 </div>
 
 ---
+
 ## :fire: My Stats :
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kellsonphilips&theme=bear&background=000000)](https://git.io/streak-stats)
 
+<!---<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&theme=algolia&layout=compact" alt="kellsonphilips" /></p>-->
 
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
 
----
+
 
 ## :writing_hand: Blog Posts :
 
