@@ -100,7 +100,32 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 <!---<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&theme=algolia&layout=compact" alt="kellsonphilips" /></p>-->
 
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
+---
+
+## 🏆 Trophies
+<p align="center"> <a href="https://github.com/kellsonphilips"><img
+      src="https://github-profile-trophy.vercel.app/?username=kellsonphilips&row=1&column=6&theme=algolia" alt="jaypavasiya" /></a>  </p>
+
+
+
+## ⚡ Recent GitHub Activity
+<a href="https://github.com/kellsonphilips"><img alt="Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kellsonphilips&custom_title=Philip's%20Contribution%20Graph&theme=react-dark" /></a>
+
+  <!---![Profile View Counter](https://komarev.com/ghpvc/?username=kellsonphilips)-->
+
+<hr/>
+
+## 😂 Joke
+<p> You can fight with bugs and still smile 😊😆😂 </p>
+<div>
+<img src='https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight' />
+</div>
+
+<hr/>
 
 
 ## :writing_hand: Blog Posts :
