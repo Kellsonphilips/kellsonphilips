@@ -28,7 +28,7 @@
 ## :man_technologist: About Me :
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=This+is+Philip+Orji%20|+You're+right!;Full%20Stack+Developer;MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Inquisitive;Content%20Creator%20|+Blogging+in%20progress;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+Philip+Orji%20|+🤓🤝;Full%20Stack+Developer;MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Inquisitive;Content%20Creator%20|+Blogging+in%20progress;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="v_jaynarayan" /></a> </p>
