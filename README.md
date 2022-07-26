@@ -98,7 +98,7 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kellsonphilips&theme=bear&background=000000)](https://git.io/streak-stats)
 
-<!---<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&theme=algolia&layout=compact" alt="kellsonphilips" /></p>-->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&theme=algolia&layout=compact" alt="kellsonphilips" /></p>
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=dark" width="350"></a>
