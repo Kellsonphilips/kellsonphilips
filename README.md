@@ -46,7 +46,7 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
   
   - :speaking_head: In free times, I join my passionate friends in twitter space discussing about web technologies, tools, software engineering and general discussions.
 
-<div align="right" > <a href="https://app.daily.dev/Phillips"><img src="https://api.daily.dev/devcards/d6eb72ba60474f9785f589a67f06639c.png?r=waj" width="400" alt="Orji Philip Kelechukwu's Dev Card"/></a> </div>
+<!--- <div align="right" > <a href="https://app.daily.dev/Phillips"><img src="https://api.daily.dev/devcards/d6eb72ba60474f9785f589a67f06639c.png?r=waj" width="400" alt="Orji Philip Kelechukwu's Dev Card"/></a> </div> -->
   
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/)
 
