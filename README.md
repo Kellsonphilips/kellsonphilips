@@ -36,7 +36,7 @@
 
 I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
 
-  - :telescope: My main tools for **Full Stack Web Developer** is **MERN** .
+  - :telescope: My **Tool Stack** is **MERN** .
   
   - :seedling: I am passionate about **Web Technologies, Coding, and Open-source.** 
   
@@ -117,7 +117,7 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/kellsonphilips"><img alt="Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kellsonphilips&custom_title=Philip's%20Contribution%20Graph&theme=react-dark" /></a>
 
-  <!---![Profile View Counter](https://komarev.com/ghpvc/?username=kellsonphilips)-->
+<!---![Profile View Counter](https://komarev.com/ghpvc/?username=kellsonphilips)-->
 
 <hr/>
 
