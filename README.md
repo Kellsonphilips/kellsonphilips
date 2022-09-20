@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<!---<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/orji-philip-a3579b128/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,7 +12,7 @@
   <a href="https://twitter.com/kellsonphilips">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> --->
 
 <h1 align="center">
   Hi, I am Philip 
@@ -115,7 +115,10 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/kellsonphilips"><img alt="Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kellsonphilips&custom_title=Philip's%20Contribution%20Graph&theme=react-dark" /></a>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kellsonphilips&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+<!--- <a href="https://github.com/kellsonphilips"><img alt="Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kellsonphilips&custom_title=Philip's%20Contribution%20Graph&theme=react-dark" /></a>-->
 
 <!---![Profile View Counter](https://komarev.com/ghpvc/?username=kellsonphilips)-->
 
@@ -129,6 +132,11 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 <hr/>
 
+<!---<p align="center">
+  <a href = "https://www.linkedin.com/in/orji-philip-a3579b128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/kellsonphilips"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/tech_phills/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>--->
 
 ## :writing_hand: Blog Posts :
 
