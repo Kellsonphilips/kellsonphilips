@@ -42,9 +42,9 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
   
   - :school: I am a graduate of **B.Sc** in **Mathematics** and **Computer Science** from Osmania University, India. 
   
-  - :zap: I like to **Create and Contribute** to open source projects and also help those that seek for help within my reach. 
+  - :zap: I like to **Contribute** to open source projects and also help those that seek for help within my reach. 
   
-  - :speaking_head: In free times, I join my passionate friends in twitter space discussing about web technologies, tools, software engineering and general discussions.
+  - :speaking_head: In free times, I join my passionate friends on twitter space discussing about web technologies, tools, software engineering and general discussions.
 
 <!--- <div align="right" > <a href="https://app.daily.dev/Phillips"><img src="https://api.daily.dev/devcards/d6eb72ba60474f9785f589a67f06639c.png?r=waj" width="400" alt="Orji Philip Kelechukwu's Dev Card"/></a> </div> -->
   
