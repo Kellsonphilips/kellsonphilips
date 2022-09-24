@@ -120,6 +120,16 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 <!--- <a href="https://github.com/kellsonphilips"><img alt="Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kellsonphilips&custom_title=Philip's%20Contribution%20Graph&theme=react-dark" /></a>-->
 
+---
+
+## 👥 Let's Connet
+
+<p align="center">
+  <a href = "https://www.linkedin.com/in/orji-philip-a3579b128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/kellsonphilips"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/tech_phills/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
 <!---![Profile View Counter](https://komarev.com/ghpvc/?username=kellsonphilips)-->
 
 <hr/>
@@ -132,11 +142,6 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 <hr/>
 
-<!---<p align="center">
-  <a href = "https://www.linkedin.com/in/orji-philip-a3579b128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/kellsonphilips"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/tech_phills/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>--->
 
 ## :writing_hand: Blog Posts :
 
