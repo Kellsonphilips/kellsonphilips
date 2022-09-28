@@ -125,7 +125,9 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 ## 👥 Let's Connet
 
 <p align="center">
-  <a href = "https://www.linkedin.com/in/orji-philip-a3579b128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:kellsonphilips+github@gmail.com">
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" height="40" width="40"/></a>
+<a href = "https://www.linkedin.com/in/orji-philip-a3579b128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/kellsonphilips"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/tech_phills/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
