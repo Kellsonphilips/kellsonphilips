@@ -95,6 +95,8 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 ---
 
+<a href="https://app.daily.dev/Phillips"><img src="https://github.com/kellsonphilips/kellsonphilips/blob/main/devcard.svg" width="400" alt="Philip. O's Dev Card"/></a>
+
 ## :fire: My Stats :
 
 
