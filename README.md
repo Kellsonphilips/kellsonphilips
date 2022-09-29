@@ -44,13 +44,13 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
   
   - :zap: I like to **Contribute** to open source projects and also help those that seek for help within my reach. 
   
-  - :speaking_head: In free times, I join my passionate friends on twitter space discussing about web technologies, tools, software engineering and general discussions.
+  - :speaking_head: In free times, I join my passionate friends on twitter space discussing about softwares, and general discussions.
 
 <!--- <div align="right" > <a href="https://app.daily.dev/Phillips"><img src="https://api.daily.dev/devcards/d6eb72ba60474f9785f589a67f06639c.png?r=waj" width="400" alt="Orji Philip Kelechukwu's Dev Card"/></a> </div> -->
   
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/)
 
-
+<!-- 
 ## My main Stack tools: 
 
   
@@ -58,9 +58,9 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
   - ExpressJs
   - ReactJs
   - NodeJs
+ -->
 
-
-
+<!-- 
 ## I am open to:
 
   - Work opportunities
@@ -69,7 +69,7 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
   - Developer advocacy opportunities
 
 ---
-
+ -->
 
 
 ## :hammer_and_wrench: Languages and tools </>
@@ -95,18 +95,27 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 ---
 
-<a href="https://app.daily.dev/Phillips"><img src="https://github.com/kellsonphilips/kellsonphilips/blob/main/devcard.svg" width="400" alt="Philip. O's Dev Card"/></a>
-
 ## :fire: My Stats :
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kellsonphilips&theme=bear&background=000000)](https://git.io/streak-stats)
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&theme=algolia&layout=compact" alt="kellsonphilips" /></p>
-
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kellsonphilips&theme=bear&background=000000)](https://git.io/streak-stats)
+ -->
+<table>
+<tr>
+<td>
+<a href="http://www.github.com/kellsonphilips"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kellsonphilips&theme=bear&background=000000" width="500" /></a>
+</br>
+</br>
+<a href="https://github.com/kellsonphilips"><img alt="Philip. O's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&langs_count=8&count_private=true&layout=compact&theme=bear&background=000000" width="500" /></a>
+</br>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&theme=algolia&layout=compact" alt="kellsonphilips" /></p> -->
+</br>
+<p><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=dark" width="500"></a></p>
+</td>
+<td>
+<a href="https://app.daily.dev/Phillips"><img src="https://github.com/kellsonphilips/kellsonphilips/blob/main/devcard.svg" width="500" alt="Philip. O's Dev Card"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
