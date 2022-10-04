@@ -45,10 +45,14 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
   - :zap: I like to **Contribute** to open source projects and also help those that seek for help within my reach. 
   
   - :speaking_head: In free times, I join my passionate friends on twitter space discussing about softwares, and general discussions.
-
-<!--- <div align="right" > <a href="https://app.daily.dev/Phillips"><img src="https://api.daily.dev/devcards/d6eb72ba60474f9785f589a67f06639c.png?r=waj" width="400" alt="Orji Philip Kelechukwu's Dev Card"/></a> </div> -->
   
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/)
+
+<details>
+<h3 align="left">Support:</h3>
+<p><a href="https://github.com/sponsors/kellsonphilips">Sponsor me on Github</a></p> <br/>
+<p><a href="https://ko-fi.com/kellsonphilips"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kellsonphilips" /></a></p><br><br>
+</details>
 
 <!-- 
 ## My main Stack tools: 
@@ -109,7 +113,7 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 </br>
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&theme=algolia&layout=compact" alt="kellsonphilips" /></p> -->
 </br>
-<p><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=dark" width="500"></a></p>
+<p><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=bear" width="500"></a></p>
 </td>
 <td>
 <a href="https://app.daily.dev/Phillips"><img src="https://github.com/kellsonphilips/kellsonphilips/blob/main/devcard.svg" width="500" alt="Philip. O's Dev Card"/></a>
@@ -122,6 +126,8 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/kellsonphilips"><img
       src="https://github-profile-trophy.vercel.app/?username=kellsonphilips&row=1&column=6&theme=algolia" alt="kellsonphilips" /></a>  </p>
+
+<!--- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kellsonphilips" alt="kellsonphilips" /></a> </p> --->
 
 
 
