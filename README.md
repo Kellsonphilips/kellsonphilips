@@ -163,6 +163,9 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 <hr/>
 
+## :open_book: Developer Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
 
 ## :writing_hand: Blog Posts :
 
