@@ -25,7 +25,7 @@
 </div>
 
 
-## :man_technologist: About Me :
+## :man_technologist: Get to know me :
 
 <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+Philip+Orji%20|+🤓🤝;Full%20Stack+Developer;MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Inquisitive;Content%20Creator%20|+Blogging+in%20progress;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
