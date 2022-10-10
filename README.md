@@ -46,7 +46,7 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
   
   - :speaking_head: In free times, I join my passionate friends on twitter space discussing about softwares, and general discussions.
   
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/)
+<!--   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/) -->
 
 <details>
 <h3 align="left">Support:</h3>
