@@ -40,7 +40,7 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
   
   - :seedling: I am passionate about **Web Technologies, Coding, and Open-source.** 
   
-  - :school: I am a graduate of **B.Sc** in **Mathematics** and **Computer Science** from Osmania University, India. 
+  - :school: I am a graduate of **B.Sc** in **Mathematics** and **Computer Science** from [Osmania University](https://www.osmania.ac.in), India. 
   
   - :zap: I like to **Contribute** to open source projects and also help those that seek for help within my reach. 
   
@@ -78,7 +78,7 @@ I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/
 
 ## :hammer_and_wrench: Languages and tools </>
 
-<div> 
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" width="40" />&nbsp;
