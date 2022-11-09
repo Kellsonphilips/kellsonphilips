@@ -31,20 +31,20 @@
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+Philip+Orji%20|+🤓🤝;Full%20Stack+Developer;MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Inquisitive;Content%20Creator%20|+Blogging+in%20progress;Developers+Startup+Advocate&center=true&width=500&height=50"></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="kellsonphilips" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="kellsonphilips" /></a> </p> -->
 
 
 I am a **Full Stack Web App Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
 
-  - :telescope: My **Tool Stack** is **MERN** .
+  - :telescope: Adding more stacks to **MERN STACK** .
   
-  - :seedling: I am passionate about **Web Technologies, Coding, and Open-source.** 
+  - :seedling: Building and learning more about **Web Technologies, Coding, and Open-source.** 
   
-  - :school: I am a graduate of **B.Sc** in **Mathematics** and **Computer Science** from [Osmania University](https://www.osmania.ac.in), India. 
+  - :school: I am a graduate of **B.Sc** in **Computer Science** **"MECs"** from [Osmania University](https://www.osmania.ac.in), India. 
   
-  - :zap: I like to **Contribute** to open source projects and also help those that seek for help within my reach. 
+  - :zap: **Contributing** to open source projects and building a consistent habit in my career in general. 
   
-  - :speaking_head: In free times, I join my passionate friends on twitter space discussing about softwares, and general discussions.
+  - :speaking_head: In free times, I join my passionate friends on tech twitter space discussing about softwares, and general discussions.
   
 <!--   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/) -->
 
