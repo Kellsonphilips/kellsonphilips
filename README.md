@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<!---<div id="badges" align="center">
+<!-- -<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/orji-philip-a3579b128/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,23 +12,26 @@
   <a href="https://twitter.com/kellsonphilips">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div> -->
-
+</div>
+ -->
 <h1 align="center">
   Hi, I am Philips 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+<!--    <p align="center">Thanks for stopping by</p> -->
 </h1>
+
+  
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="400"/>
 </div>
 
 
 ## :man_technologist: Get to know me :
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+Philip+Orji%20|+🤓🤝;Full%20Stack+Developer;MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Intuitive;Content%20Creator%20|+Blogging+in%20progress;Developers+Startup&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+Philip+Orji%20|+🤓🤝;Full%20Stack+Developer;Stack:MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Intuitive;Content%20Creator%20|+Blogging+in%20progress;Developers+Startup&center=true&width=500&height=50"></a>
 </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="kellsonphilips" /></a> </p> -->
@@ -126,9 +129,9 @@ I am a **Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/kellsonphilips"><img
-      src="https://github-profile-trophy.vercel.app/?username=kellsonphilips&row=1&column=6&theme=algolia" alt="kellsonphilips" /></a>  </p>
+      src="https://github-profile-trophy.vercel.app/?username=kellsonphilips&row=1&column=7&theme=algolia" alt="kellsonphilips" /></a>  </p>
 
-<!--- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kellsonphilips" alt="kellsonphilips" /></a> </p> --->
+<!-- - <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kellsonphilips&row=1&column=9&theme=algolia" alt="kellsonphilips" /></a> </p> - -->
 
 
 
@@ -159,13 +162,13 @@ I am a **Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 ## 😂 Joke
 <p> You can fight with bugs and still smile 😊😆😂 </p>
 <div>
-<img src='https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight' />
+<img src='https://readme-jokes.vercel.app/api?hideBorder&theme=algolia' />
 </div>
 
 <hr/>
 
 ## :open_book: Developer Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 
 ## :writing_hand: Blog Posts :
