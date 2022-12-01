@@ -15,7 +15,7 @@
 </div> -->
 
 <h1 align="center">
-  Hi, I am Philip 
+  Hi, I am Philips 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90"/>
 </h1>
 
@@ -110,14 +110,14 @@ I am a **Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 <a href="http://www.github.com/kellsonphilips"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kellsonphilips&theme=bear&background=000000" width="500" /></a>
 </br>
 </br>
-<a href="https://github.com/kellsonphilips"><img alt="Philip. O's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&langs_count=8&count_private=true&layout=compact&theme=bear&background=000000" width="500" /></a>
+<a href="https://github.com/kellsonphilips"><img alt="Philips O's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&langs_count=8&count_private=true&layout=compact&theme=bear&background=000000" width="500" /></a>
 </br>
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&theme=algolia&layout=compact" alt="kellsonphilips" /></p> -->
 </br>
 <p><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=bear" width="500"></a></p>
 </td>
 <td>
-<a href="https://app.daily.dev/Phillips"><img src="https://github.com/kellsonphilips/kellsonphilips/blob/main/devcard.svg" width="500" alt="Philip. O's Dev Card"/></a>
+<a href="https://app.daily.dev/Phillips"><img src="https://github.com/kellsonphilips/kellsonphilips/blob/main/devcard.svg" width="500" alt="Philips O's Dev Card"/></a>
 </td>
 </tr>
 </table>
