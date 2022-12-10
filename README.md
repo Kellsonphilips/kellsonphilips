@@ -150,7 +150,7 @@ I am a **Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 <a href="mailto:kellsonphilips+github@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" title="Gmail" alt="Gmail Account" height="50" width="40"/></a>
 <a href = "https://www.linkedin.com/in/orji-philip-a3579b128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/kellsonphilips"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/kellsonphilips"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"  title="Twitter" alt="Twitter account" height="50" width="40"/></a>
 <a href = "https://www.instagram.com/tech_phills/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://www.youtube.com/channel/UCEfBPodD8bxLqMYoGi3ZC6A">
   <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" height="50" width="40"/></a>
