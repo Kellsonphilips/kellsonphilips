@@ -17,15 +17,13 @@
 <h1 align="center">
   Hi, I am Philips 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
-<!--    <p align="center">Thanks for stopping by</p> -->
 </h1>
 
-  
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="400"/>
-</div>
+</div> -->
 
 
 ## :man_technologist: Get to know me :
@@ -36,20 +34,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="kellsonphilips" /></a> </p> -->
 
+<p align="center">I am a <b>Software Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> base in India.
+  :telescope: I'm currently focusing on business approachs using <b>MERN STACK</b> and many other tech <b>STACKS</b> .   :seedling: Building and learning more about <b>Web Technologies, Coding, and Open-source.</b>   :school: I am a graduate of <b>B.Sc</b> in <b>Computer Science "MECs"</b> from <a href="https://www.osmania.ac.in">Osmania University</a>, India. </p>
+<section align="center"> :zap: Thanks for visiting my profile :handshake: </section>  
 
-I am a **Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
 
-  - :telescope: Adding more stacks to **MY STACK** .
-  
-  - :seedling: Building and learning more about **Web Technologies, Coding, and Open-source.** 
-  
-  - :school: I am a graduate of **B.Sc** in **Computer Science** **"MECs"** from [Osmania University](https://www.osmania.ac.in), India. 
-  
-  - :zap: **Contributing** to open source projects and building a consistent habit in my career in general. 
-  
-  - :speaking_head: In free times, I join my passionate friends on tech twitter space discussing about softwares, and general discussions.
-  
-<!--   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philip.O-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orji-philip-a3579b128/) -->
 
 <details>
 <h3 align="left">Support:</h3>
@@ -57,16 +46,6 @@ I am a **Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 <p><a href="https://ko-fi.com/kellsonphilips"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kellsonphilips" /></a></p><br><br>
 </details>
 
-<!-- 
-## I am open to:
-
-  - Work opportunities
-  - Collaborations for projects
-  - Sponsorships
-  - Developer advocacy opportunities
-
----
- -->
 
 
 ## :hammer_and_wrench: Languages and tools </>
@@ -89,6 +68,7 @@ I am a **Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BoostStrap" alt="BoostStrap" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" height="40" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" height="40" width="40" />&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="redux" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" height="40" width="40" />&nbsp;
@@ -116,7 +96,6 @@ I am a **Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 </br>
 <a href="https://github.com/kellsonphilips"><img alt="Philips O's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&langs_count=8&count_private=true&layout=compact&theme=bear&background=000000" width="500" /></a>
 </br>
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellsonphilips&theme=algolia&layout=compact" alt="kellsonphilips" /></p> -->
 </br>
 <p><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kellsonphilips&show_icons=true&count_private=true&theme=bear" width="500"></a></p>
 </td>
@@ -132,15 +111,11 @@ I am a **Software Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 <p align="center"> <a href="https://github.com/kellsonphilips"><img
       src="https://github-profile-trophy.vercel.app/?username=kellsonphilips&row=1&column=7&theme=algolia" alt="kellsonphilips" /></a>  </p>
 
-<!-- - <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kellsonphilips&row=1&column=9&theme=algolia" alt="kellsonphilips" /></a> </p> - -->
-
 
 
 <!-- ## ⚡ Recent GitHub Activity -->
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kellsonphilips&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
-
-<!--- <a href="https://github.com/kellsonphilips"><img alt="Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kellsonphilips&custom_title=Philip's%20Contribution%20Graph&theme=react-dark" /></a>-->
+<!-- <a href="https://github.com/kellsonphilips"><img alt="Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kellsonphilips&custom_title=Philip's%20Contribution%20Graph&theme=react-dark" /></a> -->
 
 ---
 
