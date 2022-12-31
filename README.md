@@ -51,34 +51,34 @@
 ## :hammer_and_wrench: Languages and tools </>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" height="40" width="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" height="40" width="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" height="40" width="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" height="40" width="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graphql" alt="graphql" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BoostStrap" alt="BoostStrap" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" height="40" width="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="redux" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" height="40" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="sass" alt="sass" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" height="40" width="40" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="figma" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="c" alt="c" height="40" width="40" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" height="40" width="40" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" height="40" width="40" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" title="graphql" alt="graphql" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" alt="git" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="BoostStrap" alt="BoostStrap" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="react" alt="react" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" height="40" width="40" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="redux" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="Python" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="redis" alt="redis" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" alt="swift" height="40" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" height="40" width="40" />&nbsp;
   <img src="" title="" alt="" height="40" width="40" />&nbsp;
 </div>
 
@@ -125,7 +125,7 @@
 <a href="mailto:kellsonphilips+github@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" title="Gmail" alt="Gmail Account" height="50" width="40"/></a>
 <a href = "https://www.linkedin.com/in/orji-philip-a3579b128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/kellsonphilips"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"  title="Twitter" alt="Twitter account" height="50" width="40"/></a>
+<a href = "https://twitter.com/kellsonphilips"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  title="Twitter" alt="Twitter account" height="50" width="40"/></a>
 <a href = "https://www.instagram.com/tech_phills/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://www.youtube.com/channel/UCEfBPodD8bxLqMYoGi3ZC6A">
   <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" height="50" width="40"/></a>
