@@ -29,7 +29,7 @@
 ## :man_technologist: Get to know me :
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+Philip+Orji%20|+🤓🤝;Full%20Stack+Developer;Stack:MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Intuitive;Content%20Creator%20|+Blogging+in%20progress;Developers+Startup&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+Philip+Orji%20|+🤓🤝;Full%20Stack+Developer;Stack:MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Intuitive;Content%20Creator%20;Startup+Enthusiast&center=true&width=500&height=50"></a>
 </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="kellsonphilips" /></a> </p> -->
@@ -147,7 +147,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 
-## :writing_hand: Blog Posts :
+<!-- ## :writing_hand: Blog Posts :
 
   - ... :writing_hand:
-  - ... :writing_hand:
+  - ... :writing_hand: -->
