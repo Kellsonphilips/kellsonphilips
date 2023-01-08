@@ -34,9 +34,8 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="kellsonphilips" /></a> </p> -->
 
-<p align="center">I am a <b>Software Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> base in India.
-  :telescope: I'm currently focusing on business approachs using <b>MERN STACK</b> and many other tech <b>STACKS</b> .   :seedling: Building and learning more about <b>Web Technologies, Coding, and Open-source.</b>   :school: I am a graduate of <b>B.Sc</b> in <b>Computer Science "MECs"</b> from <a href="https://www.osmania.ac.in">Osmania University</a>, India. </p>
-<section align="center"> :zap: Thanks for visiting my profile :handshake: </section>  
+<p align="center">I am a <b>Software Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> base in India. I'm currently focusing on business approachs using <b>MERN</b>. Building and learning more about <b>Web Technologies, Software Development, and Open-source.</b> I am a graduate of <b>B.Sc</b> in <b>Computer Science "MECs"</b> from <a href="https://www.osmania.ac.in">Osmania University</a>, India. </p>
+<section align="center">Thanks for visiting my profile :handshake: </section>  
 
 
 
