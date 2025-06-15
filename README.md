@@ -15,7 +15,7 @@
 </div>
  -->
 <h1 align="center">
-  Hi, I am Philip 
+  Hi, I am Philip Kelechukwu Orji
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 </h1>
 
@@ -29,12 +29,12 @@
 ## :man_technologist: Get to know me :
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I+am+Philip+Orji%20|+🤓🤝;Full%20Stack+Developer;Stack:MongoDB|+ExpressJs|+ReacJs|+NodeJs;Always+Ready+to+learn!;Tech+Enthusiast|+Funtionality+Intuitive;Content%20Creator%20;Startup+Enthusiast&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I+am+Philip+Kelechukwu+Orji%20|+🤓🤝;Software+Developer+|+IT+Support+|+Data+Analytics;Stack:MongoDB|+ExpressJs|+ReacJs|+NodeJs;Continous+Learning!;Tech+Enthusiast|+Funtionality+Intuitive;Content%20Creator%20;Startup+Enthusiast&center=true&width=600&height=50"></a>
 </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=kellsonphilips" target="blank"><img src="https://img.shields.io/twitter/follow/kellsonphilips?logo=twitter&style=for-the-badge" alt="kellsonphilips" /></a> </p> -->
 
-<p align="center">I am Philip, a <b>Software Engineer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I'm currently focusing on business approachs using <b>MERN</b>. Building and learning more about <b>Web Technologies, Software Development, and Open-source.</b> I am a graduate of <b>B.Sc</b> in <b>Computer Science "MECs"</b> from <a href="https://www.osmania.ac.in">Osmania University</a>, India. </p>
+<p align="center">I am Philip Kelechukwu Orji, a <b>Software Engineer</b>, <b>IT Support</b>,and <b>Data Analytics</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I'm currently focusing on business approaches in Software, ICT, and Data Analytics. Building and learning more about <b>Web Technologies, Software Development, Business Intelligence with Data Analytics, and Open-source.</b> I am a graduate of <b>B.Sc</b> in <b>Computer Science "MECs"</b> from <a href="https://www.osmania.ac.in">Osmania University</a>, India. <a href="https://philipkelechiorji.vercel.app"><b></b>Visit my Website</b></a></p>
 <section align="center">Thanks for visiting my profile :handshake: </section>  
 
 
@@ -118,15 +118,15 @@
 
 ---
 
-## 👥 Let's Connet
+## 👥 Let's Connect
 
 <p align="center">
 <a href="mailto:kellsonphilips+github@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" title="Gmail" alt="Gmail Account" height="50" width="40"/></a>
-<a href = "https://www.linkedin.com/in/orji-philip-a3579b128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/kellsonphilips"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  title="Twitter" alt="Twitter account" height="50" width="40"/></a>
-<a href = "https://www.instagram.com/tech_phills/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://www.youtube.com/channel/UCEfBPodD8bxLqMYoGi3ZC6A">
+<a href = "https://www.linkedin.com/in/philip-kelechi-orji-a3579b128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://x.com/JoinPhotonPhill"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  title="Twitter" alt="Twitter account" height="50" width="40"/></a>
+<a href = "https://www.instagram.com/joinphotonphill/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://www.youtube.com/@tech_phills">
   <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" height="50" width="40"/></a>
 </p>
 
@@ -146,7 +146,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 
-<!-- ## :writing_hand: Blog Posts :
+ ## :writing_hand: Blog Posts :
 
-  - ... :writing_hand:
-  - ... :writing_hand: -->
+  - ... :writing_hand: <a href="https://philipkelechiorji.vercel.app/blog/getting-started-with-nextjs">Quick Start with NextJs</a>
+  - ... :writing_hand: <a href="https://philipkelechiorji.vercel.app/blog/data-analysis-best-practices">Data Analysis Best Practice</a>
+  - ... :writing_hand: <a href="https://philipkelechiorji.vercel.app/blog/a-deep-dive-into-machine-learning">Machine Learning Deep Dive</a>
+  - ... :writing_hand: <a href="https://philipkelechiorji.vercel.app/blog/understanding-cloud-computing">Understanding Cloud Computing like a 5yr old</a>
+  
